@@ -1,0 +1,23 @@
+{
+  "name": "brinoteapp",
+  "version": "1.0.0",
+  "description": "note taking app Description: create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briannabgb/briNoteApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briannabgb/briNoteApp/issues"
+  },
+  "homepage": "https://github.com/briannabgb/briNoteApp#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "inquirer": "^0.2.3"
+  }
+}
